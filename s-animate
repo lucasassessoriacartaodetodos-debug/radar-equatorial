@@ -7,7 +7,6 @@ const config: Config = {
     "./components/**/*.{ts,tsx}",
     "./lib/**/*.{ts,tsx}",
   ],
-   plugins: [require("tailwindcss-animate")],
   theme: {
     extend: {
       colors: {
